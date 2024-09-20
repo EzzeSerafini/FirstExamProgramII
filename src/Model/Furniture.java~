@@ -1,0 +1,7 @@
+package Model;
+
+public class Furniture extends Product {
+    public Furniture(String nombre, double precio, int stock) {
+        super(nombre, precio, stock);
+    }
+}
